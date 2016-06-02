@@ -1,5 +1,5 @@
 # TEK-nappi
-App version targetyed to TEK's student members
+App version targeted to TEK's mainy to student members
 
 Ideas:
 - Easy connect me request to TEK's personnel
